@@ -1,0 +1,5 @@
+---
+applications:
+ - name: ai-traffic1
+   random-route: true
+   memory: 128M
